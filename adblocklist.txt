@@ -1,13 +1,3 @@
-[mcelebi Adblock]
-! Version: 20190108
-! Title: Adblock List
-! Last modified: 08 Jan 2019 12:10 UTC
-! Homepage: http://mcelebi.net/
-!
-! Please report any unblocked obtrusive anti adblock messages or problems
-!
-
-
 hangouts.google.com##.g-Qx-eb
 0.arenabg.com###banner_4
 0.arenabg.com###main
