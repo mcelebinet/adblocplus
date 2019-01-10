@@ -963,7 +963,7 @@ sahibinden.com##.shoppingTutorial.tutorial
 sahibinden.com##.step2
 sahibinden.com##.walkme-custom-balloon-outer-div.mt-custom-balloon-outer-div.walkme-custom-walkthru-93587.walkme-custom-step-1050872.walkme-custom-popup-step.walkme-custom-language-default
 sahibinden.com##iframe[src="javascript:\"<html><body style='background:transparent'></body></html>\""]
-www.sahibinden.com##.footerContainer
+sahibinden.com##.footerContainer
 forum.donanimhaber.com###canvas
 forum.donanimhaber.com##td[style="font-size:12px; font-family:Verdana, Geneva, sans-serif;"]
 forum.donanimhaber.com##div[style="margin:10px auto; text-align:center; width:728px; height:90px;"]
