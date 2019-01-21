@@ -5,3 +5,17 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: http://mcelebi.net/
 !
+forum.donanimhaber.com##.dhsearchbar
+forum.donanimhaber.com##.sagreklam
+forum.donanimhaber.com##.yenimenu-revize
+forum.donanimhaber.com##.konudakikullanici
+||forum.donanimhaber.com/icon/avantajx_buton.png
+forum.donanimhaber.com##.mesaj-topluluk
+forum.donanimhaber.com##.userSignature
+||forum.donanimhaber.com/ads/q2.aspx?q1=2&q2=0&q3=5136&q4=1&q5=0&q6=0&q7=0
+forum.donanimhaber.com##.footericerik
+forum.donanimhaber.com##.altkisim.dfLastLoad
+forum.donanimhaber.com##.dhbscvideo.dfLastLoad
+forum.donanimhaber.com##.DH-Reklam-8.dfLastLoad
+forum.donanimhaber.com##.alt
+forum.donanimhaber.com##.logo
