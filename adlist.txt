@@ -19,3 +19,34 @@ forum.donanimhaber.com##.dhbscvideo.dfLastLoad
 forum.donanimhaber.com##.DH-Reklam-8.dfLastLoad
 forum.donanimhaber.com##.alt
 forum.donanimhaber.com##.logo
+sahibinden.com##.footerContainer.footer-container
+sahibinden.com##.uiBox.news-left-menu
+sahibinden.com##.uiBox.most
+sahibinden.com##.uiBox.interesting-ads
+sahibinden.com##.uiBox.daily-opportunity-slide
+sahibinden.com###searchLeaderboardBanner
+sahibinden.com##.search-leaderboard-banner.showed-once
+sahibinden.com##.searchResultsPromoToplist
+sahibinden.com###google_ads_iframe_\/32607536\/search_leaderboard_0
+sahibinden.com###insideoutDiv-balloon-2-634870
+sahibinden.com###walkme-balloon-1050872
+sahibinden.com###walkme-balloon-634870
+sahibinden.com###walkme-popup-background
+sahibinden.com##.mt-to-destroy
+sahibinden.com##.shoppingTutorial.tutorial
+sahibinden.com##.step2
+sahibinden.com##.walkme-custom-balloon-outer-div.mt-custom-balloon-outer-div.walkme-custom-walkthru-93587.walkme-custom-step-1050872.walkme-custom-popup-step.walkme-custom-language-default
+sahibinden.com##iframe[src="javascript:\"<html><body style='background:transparent'></body></html>\""]
+sahibinden.com##.footerContainer
+sahibinden.com##.footerContainer footer-container
+sahibinden.com##.searchResultsLastUpdated
+sahibinden.com##.myFavoriteSearch
+sahibinden.com##.search-leaderboard-banner showed-once
+sahibinden.com##searchLeaderboardBanner
+sahibinden.com##.mtmdef.pvmdef.phmdef.clearfix.searchFooter
+sahibinden.com###searchResultsLastUpdated
+sahibinden.com##.f11
+sahibinden.com##.uiBox.uiBoxContainer.yourSecurity
+sahibinden.com##.trustSafetyBox
+sahibinden.com##.classifiedWarningMessage
+||sahibinden.com|#footer
