@@ -1,4 +1,4 @@
-﻿[Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Version: 20190108
 ! Title: Mustafa Celebi
 ! Last modified: 08 Jan 2019 13:10 UTC
@@ -694,8 +694,6 @@ www.haberler.com##.videoseridiblok
 www.harika-dizi.net##.art-BlockContent
 www.harikadizi1.com###toolbarr
 www.harikadizi1.com###video_iframe
-www.hepsiburada.com###footer
-www.hepsiburada.com##.footerDiv
 www.hizlial.com##.jquery-lightbox-background
 www.hizlial.com##.jquery-lightbox-html
 www.hizlial.com##.jquery-lightbox.jquery-lightbox-mode-html
@@ -1564,8 +1562,6 @@ twitch.tv##.prime-offer-list__content.prime-offer-list__content--more-offers-to-
 twitch.tv##.top-nav__prime.tw-align-self-center.tw-flex-grow-0.tw-flex-nowrap.tw-flex-shrink-0.tw-pd-x-05
 twitch.tv##.tw-flex-grow-1 tw-full-height tw-pd-b-1
 ##dood
-hepsiburada.com##.footer-global
-hepsiburada.com##.homepageTopBanner
 whatismyipaddress.com###toolmenu
 dynu.com###footer_teasers_wrapper
 dynu.com##.twitter_feed_wrapper
@@ -1585,7 +1581,6 @@ old.reddit.com##.footer-parent
 instagram.com##.COOzN.MnWb5
 reddit.com##.ssdjlj-2.eKBkpq
 reddit.com##.ssdjlj-8.dcYfBe.ssdjlj-7.jDJmGa
-hepsiburada.com##.top-seller-item
 old.reddit.com##.hover.pagename.redditname
 reddit.com##.ssdjlj-4.elhfNK
 reddit.com##.ssdjlj-8.jZmsmH.ssdjlj-7.jDJmGa
@@ -1639,8 +1634,6 @@ microlighters.co.za##.dropdown-contents
 sahibinden.com##.uiBox.uiBoxContainer.yourSecurity
 sahibinden.com##.trustSafetyBox
 sahibinden.com##.classifiedWarningMessage
-http://static.hepsiburada.net/scripts/jquery-1.4.4.min.js
-http://static.hepsiburada.net/scripts/hbutilityheader.js
 bedavaingilizce.com/interokul.gif
 bedavaingilizce.com/onlineingilizce.jpg
 cubecdn.net
@@ -1689,7 +1682,6 @@ http://ibogfbli.weebly.com/uploads/2/5/1/1/25115324/8358671_orig.jpg
 http://icon.donanimhaber.com/sponsor-incehesap.png
 http://icon.donanimhaber.com/sponsor-sadecehosting-2.png
 http://icon.donanimhaber.com/ttnet.png
-http://images.hepsiburada.com/assets/gif/hepsiburada/testv3/footertrial7.jpg?v=15
 http://img.haberler.com/haber/haberkutulari/partner/
 http://inciswf.com/400x400_general1.swf
 http://inciswf.com/beebet.swf
