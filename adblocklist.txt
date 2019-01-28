@@ -2167,9 +2167,6 @@ forum.donanimhaber.com##.ki-mesajsecenekleri
 ||aka-a-edge.freepik.com/banner/%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22
 ||aka-a-edge.freepik.com/banner/search?searchText=parcel&search_group=all&id_ffoto=&page=3&lang=english&key=201903-02&friwol_params=data-hide-body-overflow%3D%221%22+data-min-slide-width%3D%22110%22+data-max-slide-width%3D%22112%22+data-min-margin-width%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22
 aka-a-edge.freepik.com/banner/search
-
-! guncellenen liste
-
 hepsiburada.com##.footer-global
 hepsiburada.com##.homepageTopBanner
 hepsiburada.com##.hb-recommendation-product-url
