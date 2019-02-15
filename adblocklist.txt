@@ -2317,3 +2317,4 @@ decathlon.com.tr##.filter.listing-filter-help-merch
 ||embed.scribblelive.com/Embed/v7.aspx?Id=2851617&ThemeId=38878
 ||bayinet.com.tr/Content/app/img/pro3.gif
 ||isbh.tmgrup.com.tr/sbh/site/v3/i/sabah-logo-170x71.png
+@@||sozcu.com.tr/*/assets/js/ads.js
