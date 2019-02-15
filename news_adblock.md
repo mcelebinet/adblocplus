@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: Haber Siteleri
+! Title: Mustafa Celebi
+! Last modified: 08 Jan 2019 13:10 UTC
+! Expires: 1 days (update frequency)
+! Homepage: http://mcelebi.net/
+!
