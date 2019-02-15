@@ -2326,3 +2326,4 @@ sozcu.com.tr##.using-cookie-inner
 sozcu.com.tr###ekonomi
 sozcu.com.tr###digerHaberler
 sozcu.com.tr###gununicinden
+sozcu.com.tr##.sidebox.clearfix
