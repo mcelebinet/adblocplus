@@ -2144,7 +2144,6 @@ imgur.com##.comments-info
 news.avclub.com##.recent-video__Container-sc-16lj1xi-0.dANwVA
 access.redhat.com##.footer-top
 access.redhat.com##.anchor
-forum.donanimhaber.com##.ust
 forum.donanimhaber.com##.alt
 freepik.com##.iframe-sponsor-container
 freepik.com##.tutpad-holder
