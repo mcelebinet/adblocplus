@@ -2380,3 +2380,17 @@ facebook.com###u_0_1g
 facebook.com##._5hn6
 ||i.hurimg.com/i/hurriyet/75/750x0/5c6684ce0f25442e40d9fc05
 ||dizilab.pw/video/24_1539530628.gif
+airrace.redbull.com##.scribble-wrapper.hide
+submityourflicks.com##.table-cell
+popphoto.com##.\-eib-mi-mncwes-ux-wihnuchyl.loaded
+popphoto.com##.panel-pane.pane-panels-mini.pane-social-header
+popphoto.com##.panel-pane.pane-primary-channel
+popphoto.com##.email_opt_in_wrapper
+popphoto.com##.field-tags.inline
+popphoto.com###comment-button-container
+popphoto.com##.comment-button-container
+popphoto.com##.panel-pane.\-ejuhy-nuviifu
+popphoto.com##.columns.small-12.medium-12
+popphoto.com##.columns.small-12.medium-6
+popphoto.com##.main-footer
+popphoto.com##.sir-trevor--grid
