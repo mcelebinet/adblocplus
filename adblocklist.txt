@@ -782,9 +782,6 @@ www.youtube.com##.branding-img.iv-click-target.iv-view-target
 www.youtube.com##.yt-uix-button-icon.yt-uix-button-icon-subscribe.yt-sprite
 www.youtube.com##.yt-uix-shelfslider-list
 www.zalimlar.com###arevicofancy-overlay
-xhamster.com###popularBox
-xhamster.com##.frame
-xhamster.com##.loader
 yeniakit.com.tr##.banner.horizontal.left
 yeniakit.com.tr##.banner.horizontal.right
 yeniakit.com.tr##div[style="width:160;height:600px;position:relative;z-index:0;"]
