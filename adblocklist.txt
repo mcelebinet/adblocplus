@@ -782,10 +782,6 @@ www.youtube.com##.branding-img.iv-click-target.iv-view-target
 www.youtube.com##.yt-uix-button-icon.yt-uix-button-icon-subscribe.yt-sprite
 www.youtube.com##.yt-uix-shelfslider-list
 www.zalimlar.com###arevicofancy-overlay
-yeniakit.com.tr##.banner.horizontal.left
-yeniakit.com.tr##.banner.horizontal.right
-yeniakit.com.tr##div[style="width:160;height:600px;position:relative;z-index:0;"]
-yeniakit.com.tr##div[style="width:728;height:90px;position:relative;z-index:0;"]
 yeppudaa.com##.alt1
 youtube.com##.annotation-shape.annotation-popup-shape.annotation-type-text
 youtube.com##.annotation-shape.annotation-speech-shape.annotation-type-text
@@ -1047,7 +1043,6 @@ dizi720p.com##.onesignal-popover-dialog
 dizi720p.com##.asidem
 socialblade.com###crt-458795_cto_iframe
 socialblade.com##iframe[src="http://cas.criteo.com/delivery/afr.php?ptv=9&abp=3&zoneid=458795&cb=65187108091&nodis=1&charset=UTF-8&dc=3&atfr=1&loc=http%3A%2F%2Fsocialblade.com%2Finstagram%2Fuser%2Finfradream"]
-yeniakit.com.tr###pageskin
 doviz.com###newAdSkinClickUrl
 doviz.com###vrgdiv5512d9a8e4b096b1c30ea842
 doviz.com###ngVirgulPageskin
@@ -1841,7 +1836,6 @@ www.hurriyet.com.tr/gundem/25816598.asp
 ||catsmob.com/post/z18.png
 ||cdn.fenerbahce.org/banner/940x250_Fener.swf
 ||cdn.jollytur.com/Content/Images/banners/
-||cdn.yeniakit.com.tr/images/banner/fe537c.jpg
 ||cnnturk.api.sociaplus.com/
 ||convert2mp3.net/en/assets/img/carousel.png
 ||cumhuriyet.com.tr/css/images/comment-info.jpg
@@ -2021,7 +2015,6 @@ https://image.jimcdn.com/app/cms/image/transf/none/path/s0bb7b5013cd96a6f/backgr
 ||dizi720p.com/videoust.html
 ||4.bp.blogspot.com/-474KNXRvimo/V_TplNr-EWI/AAAAAAAAAQ8/BuDAcFi13CUP6f59-bfRi01GwOF5f5UNQCLcB/s1600/betgoolreklam.gif
 ||4.bp.blogspot.com/-eWruWLFRocw/V5csmRYTm2I/AAAAAAAAANw/79oVBKn4d1gZWDBxp6M3_CnEEyUpB9rGQCLcB/s1600/Untitled-1.png
-||cdn.yeniakit.com.tr/images/banner/ab7b56.jpg
 ||izlesene.com/widget?videoList=9060900,9060899,9102672,9047291,8887356,9529891,9528798,9528797,9528553,9528498,9527707,9527705,9527372,9527268,9526395&playerName=widget_doviz_recent_videos&theme=dark&autoplay=1&orientation=vertical&automute=1
 ||dizilab.com/video/pause_princess.gif
 ||kontrolkalemi.com/banner/Kontrolkalemicom_Agustos_2016.gif
