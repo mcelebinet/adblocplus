@@ -2503,3 +2503,86 @@ chip.com.tr##.onScreen
 ||aka-a-edge.flaticon.com/banner2/search?searchText=go+icon&search_group=all&page=1&lang=english&cache=2019050201&body_class=flaticon_v2_it&show_header=1&preload_size=110&img_size=img_small&min_size=110&max_size=112&min_margin=5&top_margin=7&num_rows=1
 ||aka-a-edge.flaticon.com/banner2
 ||picjumbo.com/wp-content/themes/picjumbofree/data/as_seen_on.jpg
+mail.yandex.com.tr###eysYWS_Zco5KNJaw
+mail.yandex.com.tr##.ns-view-fill-height-placeholder-box.ns-view-id-94.mail-FillHeightPlaceholder.js-fill-height-placeholder
+cnet.com##.fb_digioh-overlay.fb_digioh-overlay-fixed
+cnet.com##.col-4
+app.asana.com##.SidebarInvite.Sidebar-invite
+hangouts.google.com##.g-Ue-T-J
+dizimag6.co###ednm-1
+dizimag6.co###topmen-sticky-wrapper
+dizimag6.co##.my-wrapper
+hepsiburada.com##.topBannerContainer
+aliexpress.com##.festival-main-venue
+whatismyipaddress.com##div[style="text-align:center;"]
+whatismyipaddress.com##div[style="clear:both;padding:0px 0px 25px 0px;height:272px;width:1000px;background-image:url(//cdn.whatismyipaddress.com/images-v4/wimia-midsection.png);background-repeat:no-repeat;"]
+whatismyipaddress.com##div[style="padding:0px 25px 0px 25px;"]
+whatismyipaddress.com###foot_section
+whatismyipaddress.com##div[style="clear:both;text-align:center;padding:10px;"]
+whatismyipaddress.com##div[style="padding-top:25px;"]
+dizibox.pw##.box-header-bottom
+dizibox.pw###comments-wrapper
+dizibox.pw##.pull-left.full-width.m-t-3
+dizilab.pw##div[style="position: relative;text-align:center;margin-bottom: 0;"]
+dizilab.pw##div[style="text-align: center; background: #000; padding: 15px 1.5px;height:36px;"]
+dizilab.pw##div[style="text-align: center; background: #000; padding: 15px 0;margin-top:5px;height:36px;"]
+dizilab.pw##.translate-content
+dizilab.pw##.translate-title
+dizilab.pw##div[style="text-align: center; background: rgb(0, 0, 0); padding: 15px 1.5px; height: 36px; display: block;"]
+dizilab.pw##div[style="padding: 14px;"]
+dizilab.pw##div[style="font-weight: bold; background: rgba(0,0,0,.1); padding: 14px;"]
+dizilab.pw##div[style="text-align: center; background: rgb(0, 0, 0); padding: 15px 0px; margin-top: 5px; height: 36px; display: block;"]
+gizmodo.com##.recent-video__Container-sc-16lj1xi-0.dYHnKb
+godaddy.com##.cms-bg-mobile.marquee-image.lp-marquee-height-large.bg-position-center-top.bg-dark
+pixabay.com##.flex_grid.content_thumbs
+pixabay.com##div[style="margin:40px 0"]
+pixabay.com##div[style="margin:40px 20px"]
+freepik.com##.header-premium.header-premium--bg2
+tr.365psd.com##.bx-loading
+freephotos.cc##.sponsor-container.clear
+freephotos.cc##.text-result.aling-center
+freepik.com##.footer__top.pd-lv3.pd-x-none
+freepik.com###footer
+yandex.com.tr##.infinity-zen.infinity-zen_align_center.i-bem.infinity-zen_js_inited
+mail.yandex.com.tr##.ejJo7rF8KfKU
+mail.yandex.com.tr##.ns-view-fill-height-placeholder-box.ns-view-id-68.mail-FillHeightPlaceholder.js-fill-height-placeholder
+donanimhaber.com##.lnk-bkz
+donanimhaber.com###comments-thread-137805172
+donanimhaber.com##.yorumkapsam
+donanimhaber.com##.detay-yatay-sorgu
+dpreview.com##.recentGalleries
+dpreview.com##.articles
+dpreview.com##.widgetContent
+dpreview.com##.siteFooter
+dpreview.com##.postContentLinksHeader
+dpreview.com##.postContentLinks
+dpreview.com##.sidebarBackground
+dpreview.com##.sidebar
+chip.com.tr###qpor-F_9PI_tZDA4a48Md3cMf3LlOEvNb1fFQFP9X1cMk2wId38pK9_teHvJQC_4
+chip.com.tr##.qpor-DPNjC_4
+chip.com.tr###qpor-CA1iE_BfBco
+chip.com.tr###qpor-F_9PI_tZDA4a48Md3cMf3LlOEvNb1fFQFP9X1csd2wIh2spKGftS
+dizibox.pw##.box-sidebar.bg-dark.m-b-2
+downloadtwittervideo.com###freeText
+downloadtwittervideo.com###fotter
+downloadtwittervideo.com###MainHeaderMenu
+downloadtwittervideo.com##.HeaderMenu
+hepsiburada.com##.seoContent
+freepik.com##.no-results.sponsor--shutterstock
+freepik.com##.shutterstock
+tr.365psd.com##.thumbnail-premium-sponsor
+freepsdfiles.net##.more-templates
+freepsdfiles.net##.fix-last
+freepsdfiles.net##.post.choco-templates
+freepsdfiles.net##.similar-posts.choco-similar-posts.fps-similar-posts
+freepsdfiles.net###commentform
+freepsdfiles.net##.comment-form
+365psd.com##.thumbnail-premium-sponsor
+||c-3sux78kvnkay76x24osgyjqx2emuumrkgvoyx2eius.g00.cnet.com/g00/3_c-3ccc.itkz.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fosgyjq.muumrkgvoy.iusx2fpyx2fiux78kx2fhx78ojmk9.844.6_kt.nzsrx3fo76i.sgx78qx3dolx78gsk_$/$/$/$?i10c.ua=1&i10c.dv=12#goog_551436986
+||api.adnamo.net/storage/21/index.html
+||cdn.whatismyipaddress.com/images-v4/ip101_opt.jpg
+||dizilab.pw/video/21_1539611278.gif
+||dizilab.pw/video/37_1551289351.jpg
+||i.hizliresim.com/9NM3kk.gif
+Yükleniyor...
+||i2.wp.com/static.freepsdfiles.net/uploads/2019/03/Vector-Infographic-Templates-Collection-Mega-Bundle.jpg
