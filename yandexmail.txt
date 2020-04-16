@@ -1,3 +1,9 @@
+// ==UserScript==
+// @name           mail.yandex.ru ad blocker
+// @version        0.2
+// @match          *://mail.yandex.ru/*
+// @grant          <> <! [CDATA []]> </>
+// ==/UserScript==
 
 (function() {
     'use strict';
