@@ -273,14 +273,6 @@ harikadizi3.com###arkaplan_reklam
 hatayinternettv.com###karartma
 hatayinternettv.com###pencere
 hatayinternettv.com##.window
-hepsiburada.com##.footer-global
-hepsiburada.com##.homepageTopBanner
-hepsiburada.com##.hb-recommendation-product-url
-hepsiburada.com##.hb-recommendation-products-title
-hepsiburada.com##.hb-recommendation-products-view.owl-carousel.owl-loaded.owl-drag
-hepsiburada.com##.hb-recommendation-products-container.RecommendedProductsWidget.desktop.mt-16
-hepsiburada.com##.contain-lg-5.contain-md-4.contain-sm-4.fluid
-hepsiburada.com##.top-seller-item
 haxlog.com###i107
 hdfilmcehennemi.com##.banneritem
 hdfilmcehennemi.com##.pageskin-click-div.click-right
