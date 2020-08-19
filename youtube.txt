@@ -1,0 +1,51 @@
+[Adblock Plus 2.1]
+! Version: 20190109
+! Title: Mustafa Celebi
+! Last modified: 20 Agu 2020 00:53 UTC
+! Expires: 1 days (update frequency)
+! Homepage: http://mcelebi.net/
+!
+
+
+www.youtube.com###pyv-iframe
+www.youtube.com##.annotation.annotation-type-text
+www.youtube.com##.branding-img.iv-click-target.iv-view-target
+www.youtube.com##.yt-uix-button-icon.yt-uix-button-icon-subscribe.yt-sprite
+www.youtube.com##.yt-uix-shelfslider-list
+youtube.com##.annotation-shape.annotation-popup-shape.annotation-type-text
+youtube.com##.annotation-shape.annotation-speech-shape.annotation-type-text
+youtube.com##.annotation-shape.annotation-type-highlight
+youtube.com##.annotation-shape.annotation-type-text
+youtube.com##.annotation.annotation-type-highlight
+youtube.com##.branding-context-container-outer
+youtube.com##.branding-img-container
+youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix
+youtube.com##.iv-drawer-teaser
+youtube.com##.iv-promo-contents
+youtube.com##.iv-promo-img.iv-click-target
+youtube.com##.ytp-button.ytp-cards-button
+youtube.com##.ytp-cards-teaser-text
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-expanding-overlay-background
+youtube.com##.ytp-ce-expanding-overlay-body
+youtube.com##.ytp-ce-expanding-icon
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-element-show.ytp-ce-top-left-quad.ytp-ce-size-1280.ytp-ce-force-expand
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-bottom-left-quad.ytp-ce-size-1280.ytp-ce-force-expand.ytp-ce-element-hover
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad.ytp-ce-size-1280.ytp-ce-force-expand.ytp-ce-element-hover
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad.ytp-ce-size-1280
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-right-quad.ytp-ce-size-1280.ytp-ce-element-show.ytp-ce-force-expand.ytp-ce-element-hover
+youtube.com##.ytp-ce-covering-shadow-top
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-right-quad.ytp-ce-size-1280.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-bottom-right-quad.ytp-ce-size-1280.ytp-ce-element-show.ytp-ce-force-expand.ytp-ce-element-hover
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-bottom-right-quad.ytp-ce-size-1280
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-bottom-left-quad.ytp-ce-size-1280
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-bottom-right-quad.ytp-ce-size-1280
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-bottom-left-quad.ytp-ce-size-1920.ytp-ce-element-hover.ytp-ce-force-expand
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-bottom-left-quad.ytp-ce-size-1920
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-right-quad.ytp-ce-size-853.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-bottom-right-quad.ytp-ce-size-853.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-left-quad.ytp-ce-size-853.ytp-ce-element-show.ytp-ce-element-hover.ytp-ce-force-expand
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-left-quad.ytp-ce-size-853.ytp-ce-element-show
