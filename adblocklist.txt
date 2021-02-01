@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20190108
 ! Title: Mustafa Celebi
-! Last modified: 08 Jan 2019 13:10 UTC
+! Last modified: 01 Feb 2021 11:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://mcelebi.net/
 !
@@ -44,7 +44,6 @@ aol.meb.gov.tr###simplemodal-container
 aol.meb.gov.tr###simplemodal-overlay
 aol.meb.gov.tr##.simplemodal-container
 aol.meb.gov.tr##.simplemodal-overlay
-apps.facebook.com##._2pi9
 archive.org###donate-banner
 archive.org##.donate-body.donate-body-blue
 arenabg.com##.row.header
@@ -194,14 +193,6 @@ eksisozluk.com##.sponsored
 english.haijie.net##.bigImg
 episodecalendar.com##.container
 ergurmotor.com.tr##.altalanana
-facebook.com###u_13_0
-facebook.com##._4-u2.mbm._5v6e
-facebook.com##._5rzs._5v6d
-facebook.com##.ego_section
-facebook.com##.ego_unit_container
-facebook.com##.pluginRecommendationsBarBottom
-facebook.com##.rhcFooterWrap
-facebook.com##.rightColumnWrapper
 fenerbahce.org###h1muflashContent
 fenerbahce.org##.footerng
 fenerbahce.org##.h1mubanner
@@ -811,8 +802,6 @@ youtube.com##.iv-promo-img.iv-click-target
 flashscore.com##div[style="display: block; text-align: center;"]
 flashscore.com##.box_over_content_2244
 flashscore.com###lb-strip-8
-facebook.com##.fbPhotosSnowliftPlaceInfoTitle
-facebook.com##.fbPhotosSnowliftPlaceInfoContent
 gsmarena.com###subHeader
 kimkazandi.com##div[style="width: 97%;margin-top: 5px;margin-bottom: 5px; padding:10px;float: left;background: #f5f9fc; border-radius: 8px;"]
 kimkazandi.com##div[style="width: 97%;margin-top: 5px;margin-bottom: -5px; padding:10px;float: left;background: #f2f5f7; border-radius: 8px;"]
@@ -924,7 +913,6 @@ kadikoylife.com##marquee[style="width: 775px;"]
 kadikoylife.com##marquee[style="height: 500px;"]
 kadikoylife.com##marquee[style="height: 600px;"]
 kadikoylife.com##.logo
-facebook.com##._r7b
 rideturkey.com##div[style="width: 100%; height: 150px; background-image: url('http://rideturkey.com/img/desktop2.jpg');background-size: 100%; background-repeat: no-repeat"]
 mediamarkt.com.tr##.sp-fancybox-overlay
 aktuel-urunler.com##.ortaladik
@@ -1715,12 +1703,9 @@ http://storage.kimkazandi.com/scripts/jquery-ui.min.js
 http://storage.kimkazandi.com/scripts/jquery.bxslider.js
 http://storage.kimkazandi.com/scripts/jquery.min.js
 http://storage.kimkazandi.com/scripts/jquery.slimmenu.js
-http://thumb7.shutterstock.com/photos/thumb_large/597313/147262481.jpg
-http://tipo777.com/
 http://torrentz.eu/mgid/
 http://unutulmazfilmler.com/aaron-ads/
 http://unutulmazfilmler.com/aaron-ads/casino.swf
-http://www.araiamericas.com/default.aspx?pageid=57#///www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FArai-Americas%2F156610931052140&send=false&layout=button_count&width=80&show_faces=false&action=like&colorscheme=dark&height=21
 http://www.atlaskamp.com/upload/popup/Facebook11111sayfasıcopyJPG-26012013155354.jpg
 http://www.avistanbul.com.tr/content_files/banners/tablo/ramadan.png
 http://www.bahis.us/wp-content/uploads/2014/02/RA%C5%9E%C4%B0T-DUHAN.jpg
@@ -1802,26 +1787,11 @@ https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/s403x403/1526507_71060198
 https://i.guvenrehberi.com/
 https://s.nesine.com/img/tv/videoBannerImage.jpg
 https://s.nesine.com/videos/
-https://www.facebook.com/plugins/comments.php
-https://www.facebook.com/plugins/comments.php?api_key=259388927505897&channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df14f340eec%26domain%3Dwww.onlineradyodinle.net%26origin%3Dhttp%253A%252F%252Fwww.onlineradyodinle.net%252Ff474b5ba%26relation%3Dparent.parent&href=http%3A%2F%2Fwww.onlineradyodinle.net&locale=tr_TR&numposts=10&sdk=joey&width=600
-https://www.facebook.com/plugins/comments.php?api_key=259388927505897&channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df70adf444%26domain%3D
-javascript:"<html><bodystyle='background:transparent'></body></html>"
-linkconnector.com
 logroreklam.com
-nfs.com.tr
 reklamport.com/
-syndication.exoclick.com/pu.swf
 webcafe.bg
-woops.com.tr
-www.hurriyet.com.tr/gundem/25816598.asp
-||ads.exoclick.com/iframe.php?idzone=1086022&size=315x300
-||adscdn.freepik.com/banner/detail_beta?show_large_thumbs=1&searchText=abstract+background&search_group=vectors&vid_photo=795751&page=1&type=image&lang=english&key=20151113-2&show_header=0&body_class=detalle&friwol_params=data-min-slide-width%3D%22105%22+data-max-slide-width%3D%22220%22+data-min-margin-width%3D%2210%22+data-max-margin-width%3D%2215%22+data-fix-shutterstock%3D%221%22
-||adscdn.freepik.com/banner/search
-||adscdn.freepik.com/banner/search?searchText=abstract+background&search_group=all&id_ffoto=&page=1&lang=english&key=20151113-2&friwol_params=data-hide-body-overflow%3D%221%22+data-min-slide-width%3D%22110%22+data-max-slide-width%3D%22112%22+data-min-margin-width%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22
-||adscdn.freepik.com/banner/search?searchText=adapter&search_group=all&id_ffoto=&page=1&lang=english&key=20150901-1&friwol_params=data-hide-body-overflow%3D%221%22+data-min-slide-width%3D%22110%22+data-max-slide-width%3D%22112%22+data-min-margin-width%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22
-||adscdn.freepik.com/banner/search?searchText=tablet&search_group=all&id_ffoto=&page=1&lang=english&key=20150901-1&friwol_params=data-hide-body-overflow%3D%221%22+data-min-slide-width%3D%22110%22+data-max-slide-width%3D%22112%22+data-min-margin-width%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22
-||adscdn.freepik.com/banner/search_beta?searchText=baby+background&search_group=vectors&id_ffoto=172209&page=1&lang=english&cat=1&type=&key=20151113-2&friwol_params=data-hide-body-overflow%3D%221%22+data-min-slide-width%3D%22110%22+data-max-slide-width%3D%22112%22+data-min-margin-width%3D%225%22+data-max-margin-width%3D%2215%22+data-max-num-lines%3D%222%22+data-fix-shutterstock%3D%221%22+data-show-more%3D%221%22&body_class=busqueda_exclusivos&key=20151113-2
-||aka-cdn-ns.adtech.de/apps/103/Ad0St3Sz3533Sq0V9Id106971239/betboo_transparent_2.swf?clickTAG=http://adserver.adtech.de/adlink/1555/5277702/0/3533/AdId=11306397;BnId=2;itime=495262168;nodecode=yes;link=http%3A//partners.betbooaffiliates.com/processing/clickthrgh.asp%3Fbtag%3Da_6420b_1647&closeTAG=javascript%3AcloseAdLayer5277702%28%29&collapseTAG=javascript%3AcloseAdLayer5277702%28%29
+exoclick.com
+freepik.com/banner
 ||anthrobotic.com/wp-content/uploads/2015/01/ANTHROBOTIC.ORIGINALS.rolly_.1-e1420372153333.png
 ||api.video.mail.ru/videos/embed/mail/yabancidizi1/_myvideo/3681.html?wmode=transparent&hd=1&autoplay=0
 ||arenabg.com/sport1/index.php?date=2015-01-30
@@ -1850,12 +1820,6 @@ www.hurriyet.com.tr/gundem/25816598.asp
 ||dizipub.com/player/index.php?u=114110433804357072531&a=6032772486705244769&v=6032772489709588210&t=b32832b45a57c05bc53ba3268b9d6438&wmode=transparent
 ||dl2.archiveshare.net/js/overlaysHtml/block.html
 ||eskikitaplarim.com/images/misc/vbulletin3_logo_white.gif
-||facebook.com/plugins/
-||facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
-||facebook.com/plugins/share_button.php?app_id=&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F6Dg4oLkBbYq.js%3Fversion%3D41%23cb%3Df1b714d3bc%26domain%3Dwww.onlineehliyetsinavi.com%26origin%3Dhttp%253A%252F%252Fwww.onlineehliyetsinavi.com%252Ff2dd7403e8%26relation%3Dparent.parent&container_width=720&href=http%3A%2F%2Fwww.onlineehliyetsinavi.com%2Fyakit-tuketimi-hesaplama.asp&locale=en_US&sdk=joey&type=button_count
-||facebook.com/v2.0/plugins/like.php?action=like&app_id=647822825292187&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FxRlIuTsSMoE.js%3Fversion%3D41%23cb%3Df2ff83d27c%26domain%3Dkelimebulucu.com%26origin%3Dhttp%253A%252F%252Fkelimebulucu.com%252Ff9290a094%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fkelimebulucu%2F144778618930487&layout=box_count&locale=tr_TR&sdk=joey&share=true&show_faces=true
-||facebook.com/v2.0/plugins/like.php?action=like&app_id=647822825292187&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FxRlIuTsSMoE.js%3Fversion%3D41%23cb%3Df390141d%26domain%3Dkelimebulucu.com%26origin%3Dhttp%253A%252F%252Fkelimebulucu.com%252Ff3bdd74868%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fkelimebulucu%2F144778618930487&layout=box_count&locale=tr_TR&sdk=joey&share=true&show_faces=true
-||facebook.com/v2.3/plugins/page.php?adapt_container_width=true&app_id=182553655160563&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FxRlIuTsSMoE.js%3Fversion%3D41%23cb%3Df2f668b00%26domain%3Donedio.com%26origin%3Dhttp%253A%252F%252Fonedio.com%252Ff1d6482564%26relation%3Dparent.parent&color_scheme=light&container_width=635&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fonedioyasam&locale=tr_TR&sdk=joey&width=500
 ||fotocdncube.gazetevatan.com/vatanmediafile/MansetHaber640x532/2015/09/16/cekimlerde-nefes-kesti--1743605.Jpeg
 ||fresher.ru/banners/cosmo/cosmo_240_400_new_v2.swf
 ||fuarplus.com/fp4images/file/Banner/hizli_donen4.swf
@@ -2304,7 +2268,6 @@ sozcu.com.tr###digerHaberler
 sozcu.com.tr###gununicinden
 sozcu.com.tr##.sidebox.clearfix
 sozcu.com.tr##.user-pic._flex._aic._jcc
-facebook.com###u_ps_0_0_b
 hurriyet.com.tr##.footerMid
 hurriyet.com.tr##.footerBottom.clearfix
 hurriyet.com.tr##.footerReklamCont
@@ -2351,11 +2314,6 @@ dizilab.pw##.go-fanpage
 dizilab.pw##.quote
 sozcu.com.tr##.sidebox._sgm_remove_
 sozcu.com.tr##.sidebox-content
-facebook.com###u_0_1h
-facebook.com##._3ob9
-facebook.com###u_0_1g
-facebook.com##._5hn6
-||i.hurimg.com/i/hurriyet/75/750x0/5c6684ce0f25442e40d9fc05
 ||dizilab.pw/video/24_1539530628.gif
 airrace.redbull.com##.scribble-wrapper.hide
 submityourflicks.com##.table-cell
@@ -2388,9 +2346,6 @@ entertainment.theonion.com##.js_reading-list.reading-list.reading-list-compact
 entertainment.theonion.com##.js_newsletter-btn--subscribe.js_subscribe-region-footer.newsletter-btn--subscribe.newsletter-btn--subscribe__nodismiss
 entertainment.theonion.com##.footer__FooterNav-jj9ppq-1.divXQx
 entertainment.theonion.com##.topbar__FullWidthContainer-vuc0jk-0.bRxGof
-facebook.com##._3dj7._1rgv
-mail.yandex.com.tr##.y7UucWnXIojZL0iN46gKx
-mail.yandex.com.tr###y6lnYWznlpWlcxTU
 cnet.com##.uvpjs__btn-large-play.uvpjs__btn-large-play--hidden
 cnet.com###controls_videoPlayer1
 cnet.com##.uvpjs__controls.uvpjs__controls--disabled
@@ -2497,10 +2452,6 @@ pixabay.com##div[style="margin:40px 0"]
 pixabay.com##div[style="max-width:1796px;margin:auto;padding:10px 20px 20px"]
 pixabay.com##p[style="margin:40px 0 -15px;text-align:center"]
 pixabay.com##div[style="margin:40px 20px"]
-mail.yandex.com.tr##.qpHOyhlC5Cas
-mail.yandex.com.tr##.ns-view-fill-height-placeholder-box.ns-view-id-70.mail-FillHeightPlaceholder.js-fill-height-placeholder
-mail.yandex.com.tr##.qqza5ixOTBascK1NdSpxM
-mail.yandex.com.tr##.ns-view-fill-height-placeholder-box.ns-view-id-57.mail-FillHeightPlaceholder.js-fill-height-placeholder
 birgun.net##.col-lg-4.col-md-4.col-sm-5.col-xs-12.haber-detay-sidebar
 birgun.net##.onerilen-haberler
 birgun.net###pageSkinRight
@@ -2543,15 +2494,7 @@ eksisozluk.com###channel-filter-description
 eksisozluk.com##.index-cookie-filter
 dizilla.com##.text-center.xs-mb-0
 forum.donanimhaber.com##.ki-avatar
-facebook.com##._69vq._1rh0._6j1g._6j36
-facebook.com###\34 94813901371661
-facebook.com##._1rgu._601i.uiStreamStory._6853._6j1g
-facebook.com##._17am
-facebook.com##._5-lm._3aw0._6j1g._6j1h
 nesine.com##.infoText
-facebook.com##._nyb
-facebook.com##._7psf._5pcr
-facebook.com##div[style="_2ph-"]
 r10.net##.rdf581f
 r10.net##.rPanel.re6d6a2.nonbg.text-center
 r10.net##.threadSponsor
@@ -2569,12 +2512,6 @@ flaticon.com###banner-icon-list-second
 flaticon.com##.a-wrapper.edge-content.edge-content-icon-list.edge-content-icon-list-second.edge-content-first.sponsor-slidesgo-container
 flaticon.com##.unicorn
 dryicons.com##.grids-wrapper__outer.fixed-height
-facebook.com##.k4urcfbm
-facebook.com###pageFooter
-facebook.com##._45mq
-letgo.com##.Footerstyles__FooterContainer-p70plj-11.gPARSR
-letgo.com##.sc-fjdhpX.FeedFooterstyles__AppBannerRowContainer-sc-1rni7s6-1.kGcVxD
-letgo.com##.Footerstyles__AllFooterContainer-p70plj-10.gYwpUy
 canonturk.com##.signaturecontainer
 canonturk.com##.postuseravatar
 canonturk.com##.after_content
